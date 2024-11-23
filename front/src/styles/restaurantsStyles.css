@@ -1,0 +1,37 @@
+.res-cls{
+    height: 20rem;
+    padding: 3rem 5rem;
+    margin: 2rem 0;
+    margin: 0 3rem 3rem 4rem;
+    padding: 2rem 0;
+    border: 2px solid blue;
+    padding-left: 1rem;
+}
+
+.res-cls h1{
+    font-size: larger;
+}
+
+.res-card{
+    height: 12rem;
+    width: fit-content;
+    margin-top: 2rem;
+    border-radius: .5rem;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    background-color: #FC8A06;
+    color: white;
+}
+
+.res-card img{
+    height: 77%;
+}
+
+.res-card p{
+    font-weight: bolder;
+    font-size: smaller;
+    padding-top: 11px;
+    height: 2.6rem;
+    text-align: center;
+}

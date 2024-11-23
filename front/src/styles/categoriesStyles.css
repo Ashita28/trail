@@ -1,0 +1,39 @@
+.category-cls{
+    height: 20rem;
+    padding: 3rem 5rem;
+    margin: 2rem 0;
+    margin: 0 3rem 3rem 4rem;
+    padding: 2rem 0;
+    padding-left: 1rem;
+}
+
+.category-cls h1{
+    font-size: larger;
+}
+
+.category-card{
+    height: 12rem;
+    width: fit-content;
+    margin-top: 2rem;
+    border-radius: .5rem;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+}
+
+.category-card img{
+    height: 77%;
+}
+
+.category-content{
+    font-size: smaller;
+    padding: 3px 1rem;
+    font-weight: 700;
+}
+
+.res-no{
+    font-size: x-small;
+    color: #FC8A06;
+    font-weight: 500;
+}
